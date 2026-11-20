@@ -1,5 +1,5 @@
  # C-project
- This My second Git Repository
+ This is  My second Git Repository.
  <br>
- Author-Arpan Bhunia
+ Author-Arpan Bhunia.
  
